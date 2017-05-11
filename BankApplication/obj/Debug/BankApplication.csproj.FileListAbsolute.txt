@@ -1,0 +1,5 @@
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankApplication\bin\Debug\BankApplication.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankApplication\obj\Debug\BankApplication.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankApplication\obj\Debug\BankApplication.csprojResolveAssemblyReference.cache

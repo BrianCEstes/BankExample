@@ -1,0 +1,15 @@
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\BankAppUnitTest.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\BankAppUnitTest.pdb
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\BankApp.exe
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\BankApp.pdb
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\BankApp.exe.config
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\obj\Debug\BankAppUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\obj\Debug\BankAppUnitTest.dll
+C:\Users\Brian\documents\visual studio 2017\Projects\BankApp\BankAppUnitTest\obj\Debug\BankAppUnitTest.pdb
